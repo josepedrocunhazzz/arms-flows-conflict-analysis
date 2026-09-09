@@ -97,6 +97,4 @@ geospatial analysis, time series, Random Forest and decision-support reporting.
 
 ## Academic context
 
-Project presented in **José Cunha's** portfolio and developed for the Data
-Analysis Technologies course in 2026. Full academic authorship is recorded in
-the report.
+Work developed as part of the Data Analysis Technologies course in 2026.
