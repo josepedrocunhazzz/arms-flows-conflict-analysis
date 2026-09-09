@@ -100,5 +100,6 @@ para apoio à decisão.
 
 ## Contexto académico
 
-Projeto desenvolvido por Gabriel Pinto, João Fonseca e José Cunha na unidade
-curricular de Tecnologias de Análise de Dados, em 2026.
+Projeto apresentado no portefólio de **José Cunha**, desenvolvido na unidade
+curricular de Tecnologias de Análise de Dados, em 2026. A autoria académica
+completa encontra-se no relatório.
